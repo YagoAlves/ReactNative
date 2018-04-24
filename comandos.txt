@@ -1,0 +1,2 @@
+react-native init --version="0.44.0" <nome_do_app> 
+
